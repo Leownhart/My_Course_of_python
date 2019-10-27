@@ -1,6 +1,7 @@
-n1 = int(input('Informe um Valor: '))
-n2 = int(input('Informe outro Valor: '))
+n1 = int(input('Informe um valor: '))
+n2 = int(input('informe um segundo valor: '))
 soma = n1 + n2
-print('A soma dos valores informados é : {}'.format(n1+n2))
-print('A soma entre {} e {} é igual a {}!'.format(n1, n2, soma))
+print('A soma de {0} é {1} e igual: {2}'.format(n1, n2, soma))
+
+
 
