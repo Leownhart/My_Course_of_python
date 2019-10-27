@@ -12,7 +12,3 @@ print('Decâmetro:{:.1f}dam'.format(Dec))
 print('Decimetro:{:.0f}dm'.format(Deci))
 print('Centimetro:{:.0f}cm'.format(Cen))
 print('Milimetro:{:.0f}mm'.format(Mil))
-
-
-
-
