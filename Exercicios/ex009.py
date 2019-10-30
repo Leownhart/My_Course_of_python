@@ -10,3 +10,5 @@ print(Number, 'X  8 = {:2}'.format(Number * 8))
 print(Number, 'X  9 = {:2}'.format(Number * 9))
 print(Number, 'X 10 = {:2}'.format(Number * 10))
 print('============')
+
+# Há a possibilidade de se utilizar multiplicação para replicar uma string
