@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Usuario">
     <words>
+      <w>altura</w>
       <w>carteira</w>
       <w>centimetro</w>
       <w>comprar</w>
@@ -9,6 +10,7 @@
       <w>decametro</w>
       <w>decimetro</w>
       <w>decâmetro</w>
+      <w>dimensão</w>
       <w>dinheiro</w>
       <w>distância</w>
       <w>dolar</w>
@@ -18,6 +20,8 @@
       <w>igual</w>
       <w>informados</w>
       <w>informe</w>
+      <w>larg</w>
+      <w>largura</w>
       <w>medida</w>
       <w>milimetro</w>
       <w>milin</w>
@@ -26,16 +30,21 @@
       <w>nota</w>
       <w>número</w>
       <w>outro</w>
+      <w>parede</w>
       <w>pesoarg</w>
+      <w>pintar</w>
       <w>pode</w>
+      <w>precisará</w>
       <w>primeira</w>
       <w>quanto</w>
       <w>quilômetro</w>
       <w>segunda</w>
       <w>soma</w>
       <w>tabuada</w>
+      <w>tinta</w>
       <w>valores</w>
       <w>você</w>
+      <w>área</w>
     </words>
   </dictionary>
 </component>
