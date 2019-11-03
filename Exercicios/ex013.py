@@ -11,5 +11,3 @@ print('{}R$ com desconto de 10% é igual a {:.2f}R$'.format(Preco, PrecoDesc))
 print('{}R$ com acrescimo de 8% é igual a {:.2f}R$'.format(Preco, PrecoAcres))
 
 
-
-
