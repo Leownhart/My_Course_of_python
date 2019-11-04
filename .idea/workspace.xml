@@ -7,7 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MString.py" beforeDir="false" afterPath="$PROJECT_DIR$/MString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex022.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MString">
+  <component name="RunManager" selected="Python.ex022">
     <configuration name="MString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MString" />
         <item itemvalue="Python.ex022" />
+        <item itemvalue="Python.MString" />
         <item itemvalue="Python.ex021" />
         <item itemvalue="Python.ex020" />
         <item itemvalue="Python.ex019" />
