@@ -1,3 +1,5 @@
+# Ocorrência de 'A'
+
 frase = str(input('Digite uma frase: ')).strip()
 a = frase.lower().count('a')
 print('A letra A apareceu {} vezes na frase'.format(a))
