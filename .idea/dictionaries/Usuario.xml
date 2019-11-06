@@ -2,6 +2,7 @@
   <dictionary name="Usuario">
     <words>
       <w>inteiro</w>
+      <w>multa</w>
     </words>
   </dictionary>
 </component>
