@@ -1,4 +1,3 @@
-import math
 km = float(input('Qual é a velocidade atual do carro? '))
 if km <= 80:
     print('Tenha um bom dia! Dirija com segurança')
