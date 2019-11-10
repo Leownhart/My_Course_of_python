@@ -11,5 +11,5 @@ r3 = float(input('Terceiro Segmento: '))
 if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
     print('\033[33mOs segmentos acima podem formar um triângulo!\033[m')
 else:
-    print('\033[31mOs segmentos acima não podem formar um triângulo\033[m')
+    print('\034[31mOs segmentos acima não podem formar um triângulo\033[m')
 
