@@ -17,5 +17,5 @@ elif option == 3:
 elif option == 4:
     juros = price * 20 / 100
     parcela = int(input('Informe a quantidade de parcelas: '))
-    print('Sua compra de R${:.2f} vai custar R${:.2f} no fianl'.format(price, price + juros))
+    print('Sua compra de R${:.2f} vai custar R${:.2f} no final'.format(price, price + juros))
     print('Sua compra será parcelada em {}x de R${:.2f} com juros'.format(parcela, (price + juros) / parcela))
