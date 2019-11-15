@@ -1,3 +1,4 @@
+print('\033[31m{:=^40}\033[m'.format('\033[33m LOJAS FRANCISCO \033[m'))
 price = float(input('Preço das compras: R$'))
 print('''
   [ 1 ] á vista dinheiro/cheque
