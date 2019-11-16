@@ -20,4 +20,4 @@ elif option == 4:
     print('Sua compra de R${:.2f} vai custar R${:.2f} no final'.format(price, price + juros))
     print('Sua compra será parcelada em {}x de R${:.2f} com juros'.format(parcela, (price + juros) / parcela))
 else:
-    print('DADOS INVALIDOS!')
+    print('\033[31mDADOS INVALIDOS!\033[m')
