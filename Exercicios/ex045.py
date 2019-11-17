@@ -1,41 +1,49 @@
 from time import sleep
 from random import randint
-list = ['1', '2', '3']
-escolhido = randint(1,3)
-print('Suas opções: ')
-print('''[ 1 ] PEDRA
-[ 2 ] PAPEL
-[ 3 ] TESOURA''')
-jogada = int(input('Qual é sua jogada? '))
-print('JO'), sleep(1), print('KEN'), sleep(1), print('POO!!'), sleep(1)
-print('-='*15)
-if escolhido == 1:
-    print('Computador jogou Pedra')
-elif escolhido == 2:
-    print('Computador jogou Papel')
-elif escolhido == 3:
-    print('Computador jogou Tesoura')
-if jogada == 1:
-    print('Jogador jogou Pedra')
-elif jogada == 2:
-    print('Jogador jogou Papel')
-elif jogada == 3:
-    print('Jogador jogou Tesoura')
-print('-='*15)
-if escolhido == jogada:
-    print('JOGADOR EMPATOU COM O COMPUTADOR')
-elif escolhido == 1 and jogada == 2:
-    print('JOGADOR VENCE')
-elif escolhido == 1 and jogada == 3:
-    print('COMPUTADOR VENCE')
-elif escolhido == 2 and jogada == 1:
-    print('COMPUTADOR VENCE')
-elif escolhido == 2 and jogada == 3:
-    print('JOGADOR VENCE')
-elif escolhido == 3 and jogada == 1:
-    print('JOGADOR VENCE')
-elif escolhido == 3 and jogada == 2:
-    print('COMPUTADOR VENCE')
+itens = ('Pedra', 'Papel', 'Tesoura')
+computador = randint(0,2)
+print('''Suas opções:
+ [ 0 ] PEDRA
+ [ 1 ] PAPEL
+ [ 2 ] TESOURA''')
+jogador = int(input('Qual é sua jogada ? '))
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('POO!!!')
+print('-='*10)
+print('Computador jogou {}'.format(itens[computador]))
+print('Jogador jogou {}'.format(itens[jogador]))
+print('-='*10)
+if computador == 0: # Computador jogou pedra
+    if jogador == 0:
+        print('EMPATE')
+    elif jogador == 1:
+        print('JOGADOR VENCE')
+    elif jogador == 2:
+        print('COMPUTADOR VENCEU')
+    else:
+        print('JOGADA INVÁLIDA')
+elif computador == 1: # Computador jogou papel
+    if jogador == 0:
+        print('COMPÚTADOR VENCE')
+    elif jogador == 1:
+        print('EMPATE')
+    elif jogador == 2:
+        print('JOGADOR VENCE')
+    else:
+        print('JOGADA INVÁLIDA')
+elif computador == 2: # computador jogou tesoura
+    if jogador == 0:
+        print('JOGADOR VENCE')
+    elif jogador == 1:
+        print('COMPUTADOR VENCE')
+    elif jogador == 2:
+        print('EMPATE')
+    else:
+        print('JOGADA INVÁLIDA')
+
 
 
 
