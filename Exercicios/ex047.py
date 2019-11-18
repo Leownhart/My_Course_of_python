@@ -6,3 +6,7 @@ for c in range(1, 51):
         print(c, end=' ')
 print('FIM')
 
+# for n in range(2, 51, 2):
+#   print(',', end=' ')
+# print('Acabou')
+
