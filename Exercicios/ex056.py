@@ -6,9 +6,9 @@ for p in range(1, 5):
     print('----- {}ª PESSOA -----'.format(p))
     nome = str(input('Nome: ')).title().strip()
     idade = int(input('Idade: '))
-    Sexo = str(input('Sexo [M/F]: ')).strip().title()
+    Sexo = str(input('Sexo [M/F]: ')).upper()
     med += idade
-    if maior < idade:
+    if maior < idade and Sexo == 'M':
         maior = idade
         maisv = nome
     if Sexo == 'F' and idade < 20:
