@@ -1,19 +1,23 @@
-'''57 - Faça um programa que leia o sexo de uma pessoa
-os valores 'M' ou 'F'. Caso esteja errado,
-peça a digitação navamente até ter um valor correto.'''
+'''58 - Melhore o jogo do DESAFIO 28 onde o computador
+vai "pensar" em um número entre 0 e 10. Só que agora
+o jogador vai tentar adivinhar até acertar, mostrando
+no final quantos palpites foram necessários para vencer.'''
 
-'''n = str(input('Informe seu SEXO [M/F]: ')).strip().upper()[0]
-while n != 'M' or n != 'F':
-    if n == 'M' or n == 'F':
-        print('Sexo \033[31m{}\033[m registrado com sucesso'.format(n))
+from random import randint
+
+computador = randint(0, 10)
+print('Sou seu computador.. Acabei de pensar em um número entre 0 e 10.')
+print('Será que você consegue adivinhar qual foi?')
+acertou = False
+palpites = 0
+while not acertou:
+    jogador = int(input('Qual é seu palpite? '))
+    palpites += 1
+    if jogador == computador:
+        acertou = True
     else:
-        print('Dados inválidos. Por favor, informe seu sexo: ')
-        n = str(input('Informe seu SEXO [M/F]: ')).strip().upper()[0]
-print('Fim')'''
-
-sexo = str(input('Informe seu sexo [M/F] ')).strip().upper()[0]
-while sexo not in 'MmFf':
-    sexo = str(input('Dados inválidos. Por favor, informe seu sexo: ')).strip().upper()[0]
-print('Sexo {} registrado com sucesso'. format(sexo))
-
-
+        if jogador < computador:
+            print('Mais... Tente mais uma vez.')
+        elif jogador > computador:
+            print('Menos... Tente mais uma vez')
+print('Acertou com {} tentativas. Parabéns!'.format(palpites))
