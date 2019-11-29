@@ -5,15 +5,18 @@ continuar a digitar os valores.'''
 
 perguntar = ''
 cont = soma = maior = menor = 0
-while perguntar != 'Não'.title():
+while perguntar != 'N'.title():
     number = int(input('Informe um número: '))
-    perguntar = input('Deseja continuar [Sim/Não]? ')
+    perguntar = input('Deseja continuar [S/N]? ').upper().strip()[0]
     soma += number
     cont += 1
-    if number > maior:
-        maior = number
+    if cont == 1:
+        maior = menor = number
     else:
-        menor = number
+        if number > maior:
+            maior = number
+        if number < menor:
+            menor = number
 média = soma / cont
 print('Você digitou {} números, Média {:.1f},'
       ' Maior {}, Menor {}'.format(cont, média, maior, menor))
