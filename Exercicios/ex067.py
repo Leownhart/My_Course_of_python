@@ -7,11 +7,11 @@ cont = 0
 while True:
     n = int(input('Quer ver a tabuada de qual valor? '))
     print('='*35)
+    if n <= 0:
+        break
     while cont < 10:
         cont += 1
         print(f'{n:.0f} x {cont:.0f} = {n*cont:.0f}')
     cont = 0
     print('='*35)
-    if n <= 0:
-        break
 print('Acabou')
