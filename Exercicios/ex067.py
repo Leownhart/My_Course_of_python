@@ -6,12 +6,13 @@ negativo.'''
 cont = 0
 while True:
     n = int(input('Quer ver a tabuada de qual valor? '))
-    print('='*35)
+    print('\033[34m=\033[m'*35)
     if n <= 0:
         break
     while cont < 10:
         cont += 1
-        print(f'{n:.0f} x {cont:.0f} = {n*cont:.0f}')
+        print(f'\033[33m{n:.0f}\033[m x \033[32m{cont:.0f}\033[m= '
+              f'\033[31m{n*cont:.0f}\033[m')
     cont = 0
-    print('='*35)
+    print('\033[34m=\033[m'*35)
 print('Acabou')
