@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/venv/Tuplas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex070">
-    <configuration name="ex066" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Tuplas">
+    <configuration name="Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex066.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/venv/Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tuplas" />
         <item itemvalue="Python.ex070" />
         <item itemvalue="Python.ex069" />
         <item itemvalue="Python.ex068" />
         <item itemvalue="Python.ex067" />
-        <item itemvalue="Python.ex066" />
       </list>
     </recent_temporary>
   </component>
