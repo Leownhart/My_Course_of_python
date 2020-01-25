@@ -5,5 +5,6 @@ em libras.
 '''
 
 k = int(input('Informe um valor em quilogramas: '))
-l = k / 0.45
-print('O valor informado convertido em libras é {:.2f}'.format(l))
+lit = k / 0.45
+print('O valor informado convertido em libras é {:.2f}'.format(lit))
+
