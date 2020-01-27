@@ -27,7 +27,7 @@ for i, v in enumerate(pes):
 print('-=' * 30)
 print(f'Ao todo, você cadastrou {cont} pessoas')
 print(f'O maior peso foi de {mai}Kg. Peso de {mail}')
-print(f'O menor peso foi de {men}Kg. Peso de {menl}',)
+print(f'O menor peso foi de {men}Kg. Peso de {menl}')
 
 
 
