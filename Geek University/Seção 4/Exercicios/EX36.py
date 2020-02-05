@@ -5,3 +5,10 @@ pi = 3.14159.
 '''
 
 # RESPOSTA
+
+from math import pi
+alt = float(input('Informe uma altura em metros: '))
+rai = float(input('Informe o raio do cilindro: '))
+v = pi * pow(rai, 2) * alt
+print(f'O volume so cilindro sugerido é: {v:.3f} Litros')
+
