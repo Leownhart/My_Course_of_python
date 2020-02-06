@@ -6,3 +6,7 @@ salário-base.
 
 # RESPOSTA
 
+sbase = float(input('Informe o sálario base de um funcionário: '))
+grati = 5 / 100 * sbase
+desct = 7 / 100 * sbase
+print(f'Total a receber: {sbase - desct + grati:.2f}')

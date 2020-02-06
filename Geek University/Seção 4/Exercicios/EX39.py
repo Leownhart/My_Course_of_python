@@ -10,3 +10,13 @@ Sendo que da quantia total.
 '''
 
 # RESPOSTA
+
+premiação = 780.00000
+primeiro = (46 / 100) * premiação
+segundo = (32 / 100) * premiação
+terceiro = (22 / 100) * premiação
+print(f'Primeiro {primeiro:.5f} \nSegundo {segundo:.5f}'
+      f' \nTerceiro {terceiro:.5f}\n')
+total = primeiro + segundo + terceiro
+print(f'Total da premiação {total:.5f}')
+
