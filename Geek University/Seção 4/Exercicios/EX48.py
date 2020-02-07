@@ -1,3 +1,8 @@
 '''
- 48 - Leia um valor inteiroem segundos, e imprima-o em horas, minutos e segundos.
+ 48 - Leia um valor inteiro e segundos, e imprima-o em horas, minutos e segundos.
 '''
+
+n = int(input('Informe um número: '))
+
+
+

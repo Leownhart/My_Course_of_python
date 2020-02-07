@@ -6,13 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex86.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX37.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX38.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX39.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX40.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX40.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX41.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX42.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX43.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX44.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX45.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX46.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX47.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX48.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX48.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +68,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EX42">
-    <configuration name="EX38" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.EX47">
+    <configuration name="EX43" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX43.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX39" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX44" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX44.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX40" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX45" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX45.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX41" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX46" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX42" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX47" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 4/Exercicios/EX47.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX42" />
-        <item itemvalue="Python.EX41" />
-        <item itemvalue="Python.EX40" />
-        <item itemvalue="Python.EX39" />
-        <item itemvalue="Python.EX38" />
+        <item itemvalue="Python.EX47" />
+        <item itemvalue="Python.EX46" />
+        <item itemvalue="Python.EX45" />
+        <item itemvalue="Python.EX44" />
+        <item itemvalue="Python.EX43" />
       </list>
     </recent_temporary>
   </component>

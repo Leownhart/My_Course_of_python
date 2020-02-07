@@ -5,3 +5,20 @@ seu objetivo.
 '''
 
 # RESPOSTA
+
+cont = 0
+altd = degrau = float(input('Informe a altura do degrau: '))
+altura = float(input('Informe a altura que deseja alcançar: '))
+
+while True:
+    if degrau < altura:
+        cont = cont + 1
+        degrau = (degrau + altd)
+    else:
+        break
+print(f'A quantidade de degraus necessários para subir a escada é {cont:.0f}')
+
+
+
+
+

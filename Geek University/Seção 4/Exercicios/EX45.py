@@ -4,3 +4,6 @@ ASCII para resolver o problema.
 '''
 
 # RESPOSTA
+
+letra = str(input('Informe qualquer letra: '))
+print(f'A Letra em minúscula é: {letra.lower()[0]}')
