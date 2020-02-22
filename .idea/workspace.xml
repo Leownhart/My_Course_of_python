@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/Dicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex090.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dicio">
+  <component name="RunManager" selected="Python.ex090">
     <configuration name="Dicio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex090" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/listas2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex090.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex090" />
         <item itemvalue="Python.Dicio" />
         <item itemvalue="Python.ex089" />
         <item itemvalue="Python.ex088" />
         <item itemvalue="Python.ex086" />
-        <item itemvalue="Python.listas2" />
       </list>
     </recent_temporary>
   </component>
