@@ -9,19 +9,17 @@ for e in brasil:
         print(f'O campo {k} tem valor {v}.')
 
 
-
-
-'''brasil = []
+brasil = []
 estado1 = {'uf': 'Rio de Janeiro', 'sigla': 'RJ'}
 estado2 = {'uf': 'São Paulo', 'sigla': 'SP'}
 
 brasil.append(estado1)
 brasil.append(estado2)
 
-print(brasil[0]['uf'])'''
+print(brasil[0]['uf'])
 
 
-'''pessoas = {'nome': 'Gustavo', 'Sexo': 'M', 'idade': 22}
+pessoas = {'nome': 'Gustavo', 'Sexo': 'M', 'idade': 22}
 print(f'O {pessoas["nome"]} tem {pessoas["idade"]} anos.')
 print(pessoas.keys())
 print(pessoas.values())
@@ -36,7 +34,7 @@ for k in pessoas.keys():
 for k in pessoas.values():
     print(k)'''
 
-'''for k, v in pessoas.items():
+for k, v in pessoas.items():
     print(f'{k} = {v}')
     
     
@@ -62,4 +60,4 @@ print(filme.items())
 
 for k, v in filme.items():
     print(f'0{k} é {v}') 
-    '''
+
