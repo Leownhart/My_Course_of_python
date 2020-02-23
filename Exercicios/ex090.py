@@ -12,8 +12,7 @@ elif aluno['média'] < 7:
 else:
     aluno['situação'] = 'Aprovado'
 
-print(f'- nome é igual a {aluno["nome"]}')
-print(f'- média é igual a {aluno["média"]}')
-print(f'- situação é igual a {aluno["situação"]}')
+for k, v in aluno.items():
+    print(f' - {k} é igual a {v}')
 
 print(aluno)
