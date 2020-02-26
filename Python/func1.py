@@ -44,5 +44,16 @@ def soma(a, b):
 # Programa Principal
 soma(34, 23)
 
-
 '''def contador(*núm): <= Empacotamento'''
+
+'''
+def dobra(lst): <= Recebe uma lista como parâmetro.
+    pos = 0
+    while pos < len(lst):
+        lst[pos] *=2
+        pos += 1
+            
+valores = [6, 3, 9, 1, 0, 2]
+dobra(valores)
+print(valores)
+'''
