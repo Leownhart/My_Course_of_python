@@ -4,3 +4,29 @@ chamadas sorteia() e somapar(). A primeira função vai sortear 5 números e vai
 dentro da lista e a segunda função vai mostrar a soma entre todos
 os valores pares sorteados pela função anterior.
 '''
+
+from random import randint
+
+sor = []
+
+
+def sorteia(sor):
+    for n in range(0, 5):
+        sor.append(randint(0, 9))
+    print(f'Sorteando {len(sor)} valores da lista: ', end='')
+    for n in range(0, len(sor)):
+        print(f'{sor[n]} ', end='')
+    print('PRONTO!', end='')
+
+
+def somapar(sor):
+    somar = 0
+    for n in range(0, len(sor)):
+        if sor[n] % 2 == 0:
+            somar += sor[n]
+    print(f'\nSomando os valores pares de {sor}, temos {somar}')
+
+
+sorteia(sor)
+somapar(sor)
+
