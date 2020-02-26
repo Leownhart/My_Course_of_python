@@ -6,6 +6,7 @@ os valores pares sorteados pela função anterior.
 '''
 
 from random import randint
+from time import sleep
 
 sor = []
 
@@ -13,9 +14,10 @@ sor = []
 def sorteia(sor):
     for n in range(0, 5):
         sor.append(randint(0, 9))
-    print(f'Sorteando {len(sor)} valores da lista: ', end='')
+    print(f'Sorteando {len(sor)} valores da lista: ', end='', flush=True)
     for n in range(0, len(sor)):
-        print(f'{sor[n]} ', end='')
+        print(f'{sor[n]} ', end='', flush=True)
+        sleep(0.3)
     print('PRONTO!', end='')
 
 
