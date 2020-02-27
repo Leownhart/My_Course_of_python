@@ -20,5 +20,5 @@ def voto(nasc):
 
 
 '''Programa Principal'''
-nas = int(input('EM que ano você nasceu? '))
+nas = int(input('Em que ano você nasceu? '))
 print(voto(nas))
