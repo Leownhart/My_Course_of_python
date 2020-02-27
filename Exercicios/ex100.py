@@ -11,7 +11,7 @@ from time import sleep
 sor = []
 
 
-def sorteia(sor):
+def sorteia(sor):# Função para sortear os números.
     for n in range(0, 5):
         sor.append(randint(0, 9))
     print(f'Sorteando {len(sor)} valores da lista: ', end='', flush=True)
@@ -21,7 +21,7 @@ def sorteia(sor):
     print('PRONTO!', end='')
 
 
-def somapar(sor):
+def somapar(sor):# Função para somar os valores pares dentro da lista.
     somar = 0
     for n in range(0, len(sor)):
         if sor[n] % 2 == 0:
