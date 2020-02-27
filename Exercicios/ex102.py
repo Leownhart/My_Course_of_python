@@ -6,11 +6,25 @@ na tela o processo de cáculo do fatorial.
 '''
 
 
-def fatorial(fat, show=False):
+def fatorial(n, show=False):
+    """
+    -> Calcula o fatorial de um número escolhido;
+    :param n: parãmetro que recebe um número escolhido;
+    :param show: parãmetro de escolha de exibição;
+    :return: retorna o resultado da função.
+    """
     f = 1
-    for n in range(0, fat, -1):
-        print(f'')
+    for c in range(n, 0, -1):
+        if show:
+            print(c, end='')
+            if c > 1:
+                print(f' x ', end='')
+            else:
+                print(f' = ', end='')
+        f = f * c
+    return f
 
 
 '''Programa Principal'''
-fatorial(5, show=True)
+vasp = int(input('Informe um número para fatorial: '))
+print(fatorial(vasp, show=True))
