@@ -13,6 +13,12 @@ Adicione também as docstrins da função.
 
 
 def notas(*resp, sit=False):
+    """
+    --> Retorna uma dicionário com informações sobre noras;
+    :param resp: Passagem e parâmetro com várias notas;
+    :param sit: exibirá ou não o  indice situação do dicionário
+    :return: retorna o dicionário com todas os indices é informações.
+    """
     geral = dict()
     geral['Total'] = len(resp)
     geral['Maior Nota'] = max(resp)
