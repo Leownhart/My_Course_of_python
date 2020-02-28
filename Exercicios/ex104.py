@@ -10,6 +10,11 @@ n = leiaint('Digite um número')
 
 
 def leiaInt(msg):
+    """
+    --> Válida um tipo númerico
+    :param msg: recebe os dados lidos na chamada da função
+    :return: retorna o resultado depois do teste lógico
+    """
     ok = False
     valor = 0
     while True:
