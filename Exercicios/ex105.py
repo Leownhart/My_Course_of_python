@@ -35,5 +35,6 @@ def notas(*resp, sit=False):
 
 
 # Programa Principal
-resp = notas(5.5, 2.5, 10, 6.5, sit=False)
+resp = notas(5.5, 2.5, 10, sit=False)
 print(resp)
+help(notas)
