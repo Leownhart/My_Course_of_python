@@ -11,4 +11,5 @@ try:
 except urllib.error.URLError:
     print('O site Pudim  não está acessivel no momento.')
 else:
-    print('Tudo Ok')
+    print('Consegui acessar o site Pudim com sucesso!')
+    print(site.read())
