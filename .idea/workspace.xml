@@ -6,11 +6,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Francisco.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex107/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex107/m7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex108/m8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex109/m9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex109/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex110/m10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex110/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex111/utilidadesv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex111/utilidadesv/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex111/utilidadesv/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex112/utilidadesv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex112/utilidadesv/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex112/utilidadesv/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/ex107/ex107.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex107/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex107/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex107/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex108/ex108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex109/ex109.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex110/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex111/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex111/ex111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex112/ex112.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +56,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../módulosPython" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercicios/ex112" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\CursoPython\Exercicios\ex112" />
+      <recent name="C:\Users\Usuario\Desktop\CursoPython\Exercicios\ex111" />
+      <recent name="C:\Users\Usuario\Desktop\CursoPython\Exercicios\ex109" />
+      <recent name="C:\Users\Usuario\Desktop\CursoPython\Exercicios\ex108" />
       <recent name="D:\CursoPython\Exercicios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -65,8 +86,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex107">
-    <configuration name="ex104" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.teste (4)">
+    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/ex109" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex104.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex109/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex105" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/ex108" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex105.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex108/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/ex110" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex106.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex110/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +150,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex107" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/ex111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex111/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,28 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex107/ex107.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numeros" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ModulosPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModulosPython/numeros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/ex107/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex107" />
-        <item itemvalue="Python.numeros" />
-        <item itemvalue="Python.ex106" />
-        <item itemvalue="Python.ex105" />
-        <item itemvalue="Python.ex104" />
+        <item itemvalue="Python.teste (4)" />
+        <item itemvalue="Python.teste (3)" />
+        <item itemvalue="Python.teste (1)" />
+        <item itemvalue="Python.teste (2)" />
+        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
