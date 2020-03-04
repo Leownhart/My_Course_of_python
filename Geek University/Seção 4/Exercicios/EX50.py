@@ -3,3 +3,8 @@
 '''
 
 # RESPOSTA
+
+from datetime import datetime
+nasc = int(input('Informe sua idade: '))
+anosnasc = datetime.now().year - nasc
+print(f'O ano de nascimento desta pessoa é {anosnasc}')
