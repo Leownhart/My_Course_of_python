@@ -1,5 +1,5 @@
 '''
-19 - Faça um programa para vericar se um determinado número inteiro e divisivel por 3 ou 5, mas não
+ 19 - Faça um programa para vericar se um determinado número inteiro e divisivel por 3 ou 5, mas não
 simultaneamente pelos dois.
 '''
 

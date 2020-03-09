@@ -1,5 +1,5 @@
 '''
-18  - Faça um programa que mostre ao usuário um menu com 4 opções de operaçôes matemáticas
+ 18  - Faça um programa que mostre ao usuário um menu com 4 opções de operaçôes matemáticas
 (as básicas, por exemplo). O usuário escolhe uma da opções e o seu programa
 então pede dois valores numéricos e realiza a operação, mostrando o resultado e saindo.
 '''

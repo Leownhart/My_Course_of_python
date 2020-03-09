@@ -6,17 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +74,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EX20">
-    <configuration name="EX16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.EX025">
+    <configuration name="EX021" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX022" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX022.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX023" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX023.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX024" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EX025" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX025.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX20" />
-        <item itemvalue="Python.EX19" />
-        <item itemvalue="Python.EX18" />
-        <item itemvalue="Python.EX17" />
-        <item itemvalue="Python.EX16" />
+        <item itemvalue="Python.EX025" />
+        <item itemvalue="Python.EX024" />
+        <item itemvalue="Python.EX023" />
+        <item itemvalue="Python.EX022" />
+        <item itemvalue="Python.EX021" />
       </list>
     </recent_temporary>
   </component>
