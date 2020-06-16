@@ -6,15 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e73b8b-ba8d-4c1f-b77a-761432ba172c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geek University/loop_for.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geek University/Seção 5/Exercicios/EX20.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
