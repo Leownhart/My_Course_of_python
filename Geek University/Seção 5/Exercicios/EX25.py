@@ -1,5 +1,5 @@
 '''
-25 - Calcule as raizes da equação de 2º grau.
+25 - Calcule as raizes da equação de 2º grau....
 
 Lembrando que:
 
